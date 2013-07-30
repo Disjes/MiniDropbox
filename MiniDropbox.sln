@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDropbox.Web.Specs", "MiniDropbox.Web.Specs\MiniDropbox.Web.Specs.csproj", "{F5744A04-7818-4DD0-83C6-9C64CCEC4909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDropbox.Data", "MiniDropbox.Data\MiniDropbox.Data.csproj", "{37A2E029-1169-4151-AF4B-481E25869C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDropbox.Data.Specs", "MiniDropbox.Data.Specs\MiniDropbox.Data.Specs.csproj", "{86E2219C-5560-4A01-B25A-98794FAC6DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDropbox.Domain", "MiniDropbox.Domain\MiniDropbox.Domain.csproj", "{E1AA116A-A9DB-4E2D-921C-D737C2005866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDropbox.Domain.Specs", "MiniDropbox.Domain.Specs\MiniDropbox.Domain.Specs.csproj", "{479DA048-7E66-4EEA-B4E1-BC3ADBE96924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDropbox.DatabaseDeployer", "MiniDropbox.DatabaseDeployer\MiniDropbox.DatabaseDeployer.csproj", "{37347788-0CCE-4801-86B3-4B356EC77B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDropbox.Web", "MiniDropbox.Web\MiniDropbox.Web.csproj", "{973F01EB-380C-48C0-BB16-137E8EE1B607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5744A04-7818-4DD0-83C6-9C64CCEC4909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5744A04-7818-4DD0-83C6-9C64CCEC4909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5744A04-7818-4DD0-83C6-9C64CCEC4909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5744A04-7818-4DD0-83C6-9C64CCEC4909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A2E029-1169-4151-AF4B-481E25869C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A2E029-1169-4151-AF4B-481E25869C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A2E029-1169-4151-AF4B-481E25869C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A2E029-1169-4151-AF4B-481E25869C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E2219C-5560-4A01-B25A-98794FAC6DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E2219C-5560-4A01-B25A-98794FAC6DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E2219C-5560-4A01-B25A-98794FAC6DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E2219C-5560-4A01-B25A-98794FAC6DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AA116A-A9DB-4E2D-921C-D737C2005866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AA116A-A9DB-4E2D-921C-D737C2005866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AA116A-A9DB-4E2D-921C-D737C2005866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AA116A-A9DB-4E2D-921C-D737C2005866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479DA048-7E66-4EEA-B4E1-BC3ADBE96924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479DA048-7E66-4EEA-B4E1-BC3ADBE96924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479DA048-7E66-4EEA-B4E1-BC3ADBE96924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479DA048-7E66-4EEA-B4E1-BC3ADBE96924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37347788-0CCE-4801-86B3-4B356EC77B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37347788-0CCE-4801-86B3-4B356EC77B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37347788-0CCE-4801-86B3-4B356EC77B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37347788-0CCE-4801-86B3-4B356EC77B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973F01EB-380C-48C0-BB16-137E8EE1B607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973F01EB-380C-48C0-BB16-137E8EE1B607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973F01EB-380C-48C0-BB16-137E8EE1B607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973F01EB-380C-48C0-BB16-137E8EE1B607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
